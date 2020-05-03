@@ -1,1 +1,3 @@
-582138
+# DawidZ-WD
+
+Moje zadania z Wizualizacji Danych
